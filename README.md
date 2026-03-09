@@ -16,7 +16,7 @@ Implementar uma rede local simples conectando 3 notebooks a um roteador wireless
 O projeto será dividido em duas etapas:
 
 1. Simulação da rede no Cisco Packet Tracer
-2. Implementaçãoi da rede no laborátorio real.
+2. Implementação da rede no laborátorio real.
 
 ---
 
@@ -36,9 +36,9 @@ Diagrama lógico da rede usada neste laborátorio
 ```mermaid
 graph TD
 
-WAN[Internet / WAN do Provedor
+WAN[Internet / WAN do Provedor]
 
-Router[Roteador Wireless<br>1 Porta WAN<Porta>4 Portas LAN
+Router[Roteador Wireless<br>1 Porta WAN<Porta>4 Portas LAN]
 
 PC1[Notebook 1]
 PC2[Notebook 2]
@@ -52,10 +52,10 @@ Router --> |LAN 1| PC1
 Router --> |LAN 2| PC2
 Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
-
+```
 Imagem da topologia usada neste laborátorio
 
-![topologia](topologia.png)
+![opologia](Topologia.png)
 
 
-```
+
