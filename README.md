@@ -54,7 +54,8 @@ Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
 
 Imagem da topologia usada neste laborátorio
-![topologia]()
+
+![topologia](topologia.png)
 
 
 ```
