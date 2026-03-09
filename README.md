@@ -4,7 +4,7 @@
 
 Aluno: Alexandre Santos de Araujo
 
-#laboratorio de redes 01 projeto de rede local
+#Laboratório de redes 01 projeto de rede local
 
 Data: 09/03/2026
 
