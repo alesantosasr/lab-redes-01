@@ -34,7 +34,7 @@ O projeto será dividido em duas etapas:
 Diagrama lógico da rede usada neste laborátorio
 
 ```mermaid
-grafh TD
+graph TD
 
 WAN[Internet / WAN do Provedor
 
@@ -52,6 +52,9 @@ Router --> |LAN 1| PC1
 Router --> |LAN 2| PC2
 Router --> |LAN 3| PC3
 Router --> |LAN 4| Printer
+
+Imagem da topologia usada neste laborátorio
+![topologia]()
 
 
 ```
