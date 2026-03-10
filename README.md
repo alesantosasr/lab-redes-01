@@ -90,8 +90,7 @@ Etapas realizadas:
 
 Teste:
 
-(fotos e capturas de tela realizadas durante o laboratório)
-![Projeto de rede](Projeto de rede.png)
+
 ---
 
 ## 6. Conclusão 
