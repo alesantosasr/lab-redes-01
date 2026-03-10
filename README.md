@@ -55,7 +55,7 @@ Router --> |LAN 4| Printer
 ```
 Imagem da topologia usada neste laborátorio
 
-![opologia](Topologia.png)
+![topologia](Topologia.png)
 
 ---
 
@@ -72,12 +72,15 @@ Gateway: 192.168.0.1
 |Impressora  Reserva DHCP | 192.168.0.104 | IP reservado pelo roteador |
 |PC1| Reserva DHCP | 192.168.0.105| IP reservado pelo roteador |
 |PC2| DHCP | Automático | IP atribuido pelo roteador |
-|PC3 | DHCP| Automático | IP atribuido | 
+|PC3 | DHCP| Automático | IP atribuido | IP atribuido ao roteador |
+
+**Observação**
+
 
 
 ---
 
-## 5. Implementaçãoi do laboratorio real
+## 5. Implementação do laborátorio real
 
 Após a instalação , a rede foi montada fisicamente no laboratório.
 
@@ -88,7 +91,7 @@ Etapas realizadas:
 Teste:
 
 (fotos e capturas de tela realizadas durante o laboratório)
-
+![Projeto de rede](Projeto de rede.png)
 ---
 
 ## 6. Conclusão 
@@ -100,7 +103,7 @@ Este laboratorio permitiu compreender o funcionamento de uma rede local simples,
 - Comunicação entre dispositivos na rede local
 - Utilização de uma impressora de rede
 - Compartilhamento de pastas na rede usando o Windows
-- 
+- Jogos na rede
 
 
 
