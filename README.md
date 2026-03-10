@@ -10,7 +10,7 @@ Data: 09/03/2026
 
 ---
 
-##1. Objetivo
+## 1. Objetivo
 Implementar uma rede local simples conectando 3 notebooks a um roteador wireless com switch e um impressora de rede.
 
 O projeto será dividido em duas etapas:
